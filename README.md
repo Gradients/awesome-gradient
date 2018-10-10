@@ -60,6 +60,7 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 * [granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradients animations with this small (< 17 kB) js library.
 * [hyperborder](https://github.com/webmatze/hyperborder) - Adds a gradient border to the Hyper terminal.
 * [postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients) - PostCSS plugin to create smooth linear-gradients that approximate easing functions.
+* [react-native-gradient-buttons](https://github.com/thomaswangio/react-native-gradient-buttons) - A lightweight, customizable and haptic Gradient Button component library for React Native.
 * [react-native-login](https://github.com/brentvatne/react-native-login) - React-native login via native facebook sdk, with a mp4 video background and a linear gradient.
 * [react-native-svg-animated-linear-gradient](https://github.com/virusvn/react-native-svg-animated-linear-gradient) - A wrap SVG component for animated linear gradient.
 * [sketch-palettes](https://github.com/andrewfiorillo/sketch-palettes) - A Sketch plugin for exporting and importing fill presets. It supports colors, gradients, and pattern fills.
