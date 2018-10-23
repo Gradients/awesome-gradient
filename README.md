@@ -70,6 +70,7 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 
 * [AvatarView](https://github.com/vitorhugods/AvatarView) - A circular Image View with a lot of perks. Including progress animation and highlight state with borders and gradient color.
 * [co.revely.gradient](https://github.com/revely-inc/co.revely.gradient) - An Android library for easy gradient management.
+* [Gradients](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients (port of https://webgradients.com for Android)
 * [Spark](https://github.com/TonnyL/Spark) - An Android library to create gradient animation like Instagram&Spotify.
 
 ## Objective-C
