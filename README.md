@@ -13,6 +13,7 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 - [Awesome Gradient](#awesome-gradient)
 - [CSS](#css)
 - [C#](#c#)
+- [Dart](#dart)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -31,6 +32,10 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 
 * [CosineGradient](https://github.com/keijiro/CosineGradient) - Cosine gradient generator for Unity.
 * [Unity-UIGradient](https://github.com/azixMcAze/Unity-UIGradient) - A UI gradient effect script for Unity.
+
+## Dart
+
+* [Gradient-Screens](https://github.com/bluemix/Gradient-Screens) - 🌈 Gradients applied to buttons, texts and backgrounds in Flutter
 
 ## HTML
 
