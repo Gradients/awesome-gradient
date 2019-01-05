@@ -87,6 +87,7 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 
 ## Sketch
 * [180 Gradients](https://www.sketchappsources.com/free-source/2545-massive-180-gradients-set-sketch-freebie-resource.html) - 180 Gradients Sketch Resource by itmeo
+* [Juicy Gradients](https://www.sketchappsources.com/free-source/2644-juicy-ice-cream-gradients-sketch-freebie-resource.html) - Juicy Gradients Sketch Resource by David J
 
 ## Swift
 
