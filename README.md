@@ -20,6 +20,7 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 - [Kotlin](#kotlin)
 - [Objective-C](#objectivec)
 - [Swift](#swift)
+- [Sketch](#sketch)
 - [Vue](#vue)
 
 ## CSS
@@ -83,6 +84,9 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 ## Objective-C
 
 * [OCSkeleton](https://github.com/mayqiyue/OCSkeleton) - Make your loading view a little difference.
+
+## Sketch
+* [180 Gradients](https://www.sketchappsources.com/free-source/2545-massive-180-gradients-set-sketch-freebie-resource.html) - 180 Gradients Sketch Resource by itmeo
 
 ## Swift
 
