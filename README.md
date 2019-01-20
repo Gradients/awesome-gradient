@@ -108,6 +108,7 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 * [MKGradientView](https://github.com/maxkonovalov/MKGradientView) - Highly customizable Core Graphics based gradient view for iOS.
 * [Pastel](https://github.com/cruisediary/Pastel) - Gradient animation effect like Instagram.
 * [Randient](https://github.com/uias/Randient) - 🎨 Radient, random gradients in Swift.
+* [RHPlaceholder](https://github.com/robertherdzik/RHPlaceholder) - Show pleasant loading view for your users 😍
 * [Shift](https://github.com/kgellci/Shift) - Animate gradient changes with time or motion for iOS.
 * [Skeleton](https://github.com/gonzalonunez/Skeleton) - An easy way to create sliding CAGradientLayer animations.
 * [Tamamushi](https://github.com/makomori/Tamamushi) - Gradient NavigationBar library.
