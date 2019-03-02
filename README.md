@@ -93,6 +93,7 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 ## Swift
 
 * [AEConicalGradient](https://github.com/tadija/AEConicalGradient) - Conical (angular) gradient for iOS.
+* [AnimatedGradientView](https://github.com/rwbutler/AnimatedGradientView) - [![AnimatedGradientView](https://raw.githubusercontent.com/rwbutler/AnimatedGradientView/master/docs/images/animated-gradient-view-thumbnail.png)](https://github.com/rwbutler/AnimatedGradientView)  Powerful gradient animations made simple for iOS.
 * [AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel) - A nice gradient animated label that make easy to add a shimmering effect to any view.
 * [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) - Create complementary gradients generated from dominant and prominent colors in supplied image.
 * [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - A simple animated progress bar in Swift.
