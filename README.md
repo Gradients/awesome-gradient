@@ -36,6 +36,7 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 
 ## Dart
 
+* [GradientAppBar](https://github.com/joostlek/GradientAppBar) - Gradient app bar for Flutter
 * [Gradient-Screens](https://github.com/bluemix/Gradient-Screens) - 🌈 Gradients applied to buttons, texts and backgrounds in Flutter
 * [gradient-widgets](https://github.com/bluemix/gradient-widgets) - Flutter widgets wrapped with gradients
 
