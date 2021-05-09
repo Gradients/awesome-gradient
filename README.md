@@ -12,7 +12,7 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 
 - [Awesome Gradient](#awesome-gradient)
 - [CSS](#css)
-- [C#](#c#)
+- [C#](#cs)
 - [Dart](#dart)
 - [HTML](#html)
 - [Java](#java)
@@ -29,7 +29,7 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 * [nib](https://github.com/stylus/nib) - Stylus mixins, utilities, components, and gradient image generation.
 * [webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
 
-## C#
+<h2 id="cs">C#</h2>
 
 * [CosineGradient](https://github.com/keijiro/CosineGradient) - Cosine gradient generator for Unity.
 * [Unity-UIGradient](https://github.com/azixMcAze/Unity-UIGradient) - A UI gradient effect script for Unity.
