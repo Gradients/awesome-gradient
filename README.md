@@ -18,7 +18,7 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
-- [Objective-C](#objectivec)
+- [Objective-C](#objective-c)
 - [Swift](#swift)
 - [Sketch](#sketch)
 - [Vue](#vue)
